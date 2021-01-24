@@ -1,6 +1,8 @@
 # mini_militia_map_editor
 Functional mini militia map editor
 
+FOR INTEREST, YOU CAN WATCH A TIME-LAPSE FOR CREATING ONE OF THE MAPS (timelapse.avi)
+
 0. General.
 This application was created to create your own maps for
 Mini Militia game. This editor is unstable, but with the correct
