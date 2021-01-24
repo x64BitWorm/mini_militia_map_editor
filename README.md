@@ -67,6 +67,7 @@ Detailed instructions for creating a collider are on the top left.
 Sometimes you may need to resize the map as you create it.
 To do this, press R. Enter the number of blocks in width, then the number of blocks in height,
 and then the mode of aligning the old map with the new one.
+The game has limitations: if you fly 100 blocks down or to the right, then your health will start to drop.
 
 9. Image manager.
 While inserting pictures on the map using the objects "spritebg" and "spritefg"
